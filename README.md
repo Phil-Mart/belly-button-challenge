@@ -1,4 +1,6 @@
-# belly-button-challenge
-Module 14
+# dynamic-biodiversity
+JavaScript
 
-In order to finish this challenge, I attended all office hours that were scheduled, met with a tutor twice, and spent a considerable amount of time studying previous class assignments in order to create this app. I referenced youtube to help me initialize the GitHub Pages, and was finally able to change the 'src' command in the html file to load the data into the html object. My teachers really took the time to help me understand how to think about the functions at work with this assignment, and once I was able to initalize the data I was then able to format the charts with (a lot of) trial and error. 
+In this dynamic HTML page, I utilized the JavaScript library D3.js to make an asynchronous script that populates a series of displays based on the values of a pull-down menu.  For any test subject ID chosen, the DOM object will change its visualizations and metadata display. The bubble chart is even capable of displaying hover-values when the cursor is over any specific bubble. 
+
+By using the '.io' script in the repository name, I was also able to launch this html within GitHub's Pages, making the display app launchable and within the url. You will find it very mobile friendly as a result; simply load the repo link into your mobile browser and explore the functional model application. 
