@@ -1,5 +1,6 @@
-# dynamic-biodiversity
-JavaScript
+# JavaScript Dashboard
+
+using D3 
 
 In this dynamic HTML page, I utilized the JavaScript library D3.js to make an asynchronous script that populates a series of displays based on the values of a pull-down menu.  For any test subject ID chosen, the DOM object will change its visualizations and metadata display. The bubble chart is even capable of displaying hover-values when the cursor is over any specific bubble. 
 <img width="1031" alt="Screen Shot 2023-05-18 at 11 50 35 AM" src="https://github.com/Phil-Mart/dynamic-biodiversity.github.io/assets/120279988/9ab373a8-7378-47e2-9813-9b0573f424a3">
